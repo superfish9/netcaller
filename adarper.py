@@ -305,7 +305,7 @@ Usage:
         -f --forward        - Open traffic forwarding
         
 Examples:
-        python adarper.py -h 10.206.6.6 -s 10.206.6.0/24
+        python adarper.py -m 10.206.6.6 -s 10.206.6.0/24
         python adarper.py -t 10.206.6.12 -g 10.206.6.1        
 '''
     
